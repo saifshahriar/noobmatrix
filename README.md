@@ -13,5 +13,5 @@ sudo make install
 ## Screenshot
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7LSSoiU5GXlXJGzvnI/giphy.gif">
+  <img src=/ss/ss.gif>
 </p>
