@@ -1,10 +1,4 @@
-#include <assert.h>
-#include <curses.h>
-#include <stdbool.h>
-#include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
-#include <unistd.h>
 #include "ui.h"
 
 #define NUM_DRIPS 250
