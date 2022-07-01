@@ -1,7 +1,4 @@
-#include <assert.h>
 #include <curses.h>
-#include <string.h>
-#include <unistd.h>
 #include "ui.h"
 
 WINDOW *uiwindow = NULL;
